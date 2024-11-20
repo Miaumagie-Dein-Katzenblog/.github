@@ -8,7 +8,7 @@ Miaumagie ist ein Blog für Katzenliebhaber, der Inhalte über alle Arten von Ka
 
 ## Technologie
 
-Unser Blog wird mit dem leistungsstarken Framework [Laravel](https://laravel.com) erstellt. Laravel bietet eine solide Grundlage für alle Funktionen unseres Blogs und sorgt für eine stabile und performante Webanwendung.
+Unser Blog wird mit dem leistungsstarken CMS [WordPress](https://wordpress.com/) erstellt. WordPress bietet eine solide Grundlage für alle Funktionen unseres Blogs und sorgt für eine stabile und performante Webanwendung.
 
 ## Funktionen (Geplant)
 
